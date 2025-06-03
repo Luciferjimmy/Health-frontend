@@ -19,23 +19,23 @@
 
 ## 🧑‍💻 Source Code
 
-- 📱 **Flutter Frontend:** [ihealth_frontend (GitHub)](https://github.com/Muhammadurasheed/ihealth_frontend.git)  
-- ⚙️ **Node.js Backend:** [ihealth_backend (GitHub)](https://github.com/Muhammadurasheed/ihealth_backend.git)
+- 📱 **Flutter Frontend:** https://github.com/Luciferjimmy/Health-frontend
+- ⚙️ **Node.js Backend:** https://github.com/Muhammadurasheed/ihealth_backend.git)](https://github.com/Luciferjimmy/Health-Backend
 
 ---
 
 ## ✨ What Can It Do?
 
-- 🧠 Understand symptoms via **voice or text** in local languages  
-- 📷 Snap or upload a skin image for **AI-driven dermatology triage**  
-- 💬 Educate users about **causes, triggers, remedies, prevention**  
-- 📍 Recommend **verified local clinics** using OpenStreetMap  
-- 🧾 Save symptoms to history — offline + online sync  
-- 🔒 100% privacy-first. Runs with edge AI + secured endpoints
+- Understand symptoms via **voice or text** in local languages  
+- Snap or upload a skin image for **AI-driven dermatology triage**  
+- Educate users about **causes, triggers, remedies, prevention**  
+- Recommend **verified local clinics** using OpenStreetMap  
+- Save symptoms to history — offline + online sync  
+- 100% privacy-first. Runs with edge AI + secured endpoints
 
 ---
 
-## 📱 Mobile Stack Overview
+##  Mobile Stack Overview
 
 | Layer               | Tech                             |
 |---------------------|----------------------------------|
@@ -52,7 +52,7 @@
 
 ---
 
-## 📦 How to Run (Local Dev)
+## How to Run (Local Dev)
 
 ### 1. Prerequisites
 
@@ -136,13 +136,9 @@ No health info shared with 3rd parties
 
 🛠 Challenges We Solved
 ✅ Building voice + multilingual UX for low-literacy users
-
 ✅ Skin tone fairness in AI dermatology
-
 ✅ Private AI usage without sending data to unknown clouds
-
 ✅ Fast experience in rural areas with weak internet
-
 ✅ Getting quality insights from symptoms using LLM
 
 🙌 Built For
